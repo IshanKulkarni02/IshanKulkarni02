@@ -104,6 +104,7 @@ Founder of the AI & Robotics Club · 400+ students mentored · Top 20 @ Techfest
 
 | Project | Stack | Highlight |
 |---|---|---|
+| Film Matchmaking AI | TensorFlow, Flask, CNN, LLM | Tinder × LinkedIn for film — LLM understands artist/producer profiles, CNN powers matching |
 | Greeting Robot | Ollama, Flask, Raspberry Pi, OpenCV | Physical robot head with real-time face tracking & local LLM |
 | Communicathon App | Flutter, React Native | Assistive app for sensory-impaired users (STT + TTS) |
 | FaceVault Extension | YOLO, JavaScript | Browser extension for passwordless biometric login |
