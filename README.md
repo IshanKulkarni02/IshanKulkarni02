@@ -49,6 +49,15 @@ Founder of the AI & Robotics Club · 400+ students mentored · Top 20 @ Techfest
 ![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
+**3D / CAD / Creative Tools**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F28C28?style=for-the-badge&logo=autodesk&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF3366?style=for-the-badge&logo=adobe&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Python for Blender](https://img.shields.io/badge/Python_for_Blender-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 **AI / ML**
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
