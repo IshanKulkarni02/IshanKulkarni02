@@ -114,7 +114,7 @@ Founder of the AI & Robotics Club · 400+ students mentored · Top 20 @ Techfest
 ### 🏆 Highlights
 
 - 🥇 **Top 20 International** — Techfest 2020, IIT Bombay
-- 🤖 **Founded AI & Robotics Club (AIRC)** — 120+ members, 1500+ students mentored
+- 🤖 **Founded AI & Robotics Club (AIRC)** — 120+ members, 1500+ students mentored, 12 events organized
 - 📜 **Certified** — LLM Engineering · Python Bootcamp (Udemy)
 
 ---
