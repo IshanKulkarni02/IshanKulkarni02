@@ -50,6 +50,7 @@ Founder of the AI & Robotics Club · 400+ students mentored · Top 20 @ Techfest
 ### 🚀 What I'm building
 
 - **[DeskPanda](https://deskpanda.app)** — Smart task manager for teams
+- **[GyanBrige](https://github.com/IshanKulkarni02/GyanBrige)** — Self-hosted college LMS with live classes, AI notes, attendance & community — one codebase for web, mobile & desktop (Expo, Tauri, Fastify, tRPC, LiveKit)
 - **Smart LMS** — Cross-platform LMS with NFC-triggered lecture recording & WebRTC streaming
 - **Book-Learning Q&A LLM** — RAG pipeline for context-aware literary Q&A (Unsloth + Ollama)
 
