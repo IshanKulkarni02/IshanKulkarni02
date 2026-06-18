@@ -81,6 +81,16 @@ Founder of the AI & Robotics Club · 400+ students mentored · Top 20 @ Techfest
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GITHUB-STATS:START -->
+  <strong>Total Contributions:</strong> Updating automatically
+  <br />
+  <strong>Commits This Week:</strong> Updating automatically
+  <br />
+  <strong>Total Commits:</strong> Updating automatically
+  <!-- GITHUB-STATS:END -->
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshanKulkarni02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanKulkarni02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>

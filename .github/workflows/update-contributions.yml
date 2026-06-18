@@ -1,0 +1,36 @@
+name: Update total contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update contribution count
+        run: node .github/scripts/update-contributions.mjs
+        env:
+          GH_GRAPHQL_TOKEN: ${{ secrets.PROFILE_README_TOKEN || github.token }}
+          GITHUB_USERNAME: IshanKulkarni02
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No contribution count changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update total contributions"
+          git push
