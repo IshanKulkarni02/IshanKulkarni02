@@ -1,8 +1,10 @@
 import fs from "node:fs/promises";
+import path from "node:path";
 
 const username = process.env.GITHUB_USERNAME || "IshanKulkarni02";
 const token = process.env.GH_GRAPHQL_TOKEN || process.env.GITHUB_TOKEN;
 const readmePath = process.env.README_PATH || "README.md";
+const svgPath = process.env.STATS_SVG_PATH || "assets/github-stats.svg";
 const firstGitHubYear = Number(process.env.FIRST_GITHUB_YEAR || "2008");
 const now = new Date();
 const currentYear = now.getUTCFullYear();
@@ -122,19 +124,47 @@ const totalContributions = yearlyTotals.reduce(
 const totalCommits = yearlyTotals.reduce((sum, year) => sum + year.totalCommits, 0);
 const commitsThisWeek = await fetchCommitCount(startOfUtcWeek(now).toISOString(), now.toISOString());
 const formatNumber = new Intl.NumberFormat("en-US").format;
+const stats = [
+  ["Total Contributions", formatNumber(totalContributions)],
+  ["Commits This Week", formatNumber(commitsThisWeek)],
+  ["Total Commits", formatNumber(totalCommits)],
+];
+
+function escapeXml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
+}
+
+function buildStatsSvg(items) {
+  const columns = items
+    .map(([label, value], index) => {
+      const x = 140 + index * 250;
+      const divider =
+        index === 0
+          ? ""
+          : `<line x1="${index * 250}" y1="34" x2="${index * 250}" y2="126" stroke="#30363d" stroke-width="1"/>`;
+
+      return `${divider}
+  <text x="${x}" y="63" text-anchor="middle" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="700">${escapeXml(label)}</text>
+  <text x="${x}" y="105" text-anchor="middle" fill="#38bdae" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">${escapeXml(value)}</text>`;
+    })
+    .join("\n");
+
+  return `<svg width="750" height="160" viewBox="0 0 750 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">${escapeXml(username)} GitHub stats</title>
+  <desc id="desc">Total contributions, commits this week, and total commits</desc>
+  <rect x="0" y="0" width="750" height="160" rx="8" fill="#1a1b27"/>
+  <rect x="0.5" y="0.5" width="749" height="159" rx="7.5" stroke="#30363d" stroke-opacity="0.35"/>
+  ${columns}
+</svg>
+`;
+}
+
 const updatedBlock = `<!-- GITHUB-STATS:START -->
-  <table align="center">
-    <tr>
-      <td align="center"><strong>Total Contributions</strong></td>
-      <td align="center"><strong>Commits This Week</strong></td>
-      <td align="center"><strong>Total Commits</strong></td>
-    </tr>
-    <tr>
-      <td align="center">${formatNumber(totalContributions)}</td>
-      <td align="center">${formatNumber(commitsThisWeek)}</td>
-      <td align="center">${formatNumber(totalCommits)}</td>
-    </tr>
-  </table>
+  <img src="assets/github-stats.svg" alt="GitHub contribution stats" />
   <!-- GITHUB-STATS:END -->`;
 
 const readme = await fs.readFile(readmePath, "utf8");
@@ -143,11 +173,25 @@ const nextReadme = readme.replace(
   updatedBlock,
 );
 
-if (nextReadme === readme) {
-  console.log("README already has the latest contribution count.");
-} else {
+await fs.mkdir(path.dirname(svgPath), { recursive: true });
+
+const nextSvg = buildStatsSvg(stats);
+const currentSvg = await fs.readFile(svgPath, "utf8").catch(() => "");
+const readmeChanged = nextReadme !== readme;
+const svgChanged = nextSvg !== currentSvg;
+
+if (readmeChanged) {
   await fs.writeFile(readmePath, nextReadme);
+}
+
+if (svgChanged) {
+  await fs.writeFile(svgPath, nextSvg);
+}
+
+if (readmeChanged || svgChanged) {
   console.log(
     `Updated stats for ${username}: ${totalContributions} contributions, ${commitsThisWeek} commits this week, ${totalCommits} total commits`,
   );
+} else {
+  console.log("README stats are already up to date.");
 }
