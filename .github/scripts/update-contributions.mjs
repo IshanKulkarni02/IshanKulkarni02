@@ -123,11 +123,18 @@ const totalCommits = yearlyTotals.reduce((sum, year) => sum + year.totalCommits,
 const commitsThisWeek = await fetchCommitCount(startOfUtcWeek(now).toISOString(), now.toISOString());
 const formatNumber = new Intl.NumberFormat("en-US").format;
 const updatedBlock = `<!-- GITHUB-STATS:START -->
-  <strong>Total Contributions:</strong> ${formatNumber(totalContributions)}
-  <br />
-  <strong>Commits This Week:</strong> ${formatNumber(commitsThisWeek)}
-  <br />
-  <strong>Total Commits:</strong> ${formatNumber(totalCommits)}
+  <table align="center">
+    <tr>
+      <td align="center"><strong>Total Contributions</strong></td>
+      <td align="center"><strong>Commits This Week</strong></td>
+      <td align="center"><strong>Total Commits</strong></td>
+    </tr>
+    <tr>
+      <td align="center">${formatNumber(totalContributions)}</td>
+      <td align="center">${formatNumber(commitsThisWeek)}</td>
+      <td align="center">${formatNumber(totalCommits)}</td>
+    </tr>
+  </table>
   <!-- GITHUB-STATS:END -->`;
 
 const readme = await fs.readFile(readmePath, "utf8");

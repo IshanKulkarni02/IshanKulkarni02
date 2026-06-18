@@ -82,11 +82,18 @@ Founder of the AI & Robotics Club · 400+ students mentored · Top 20 @ Techfest
 
 <p align="center">
   <!-- GITHUB-STATS:START -->
-  <strong>Total Contributions:</strong> 413
-  <br />
-  <strong>Commits This Week:</strong> 10
-  <br />
-  <strong>Total Commits:</strong> 144
+  <table align="center">
+    <tr>
+      <td align="center"><strong>Total Contributions</strong></td>
+      <td align="center"><strong>Commits This Week</strong></td>
+      <td align="center"><strong>Total Commits</strong></td>
+    </tr>
+    <tr>
+      <td align="center">413</td>
+      <td align="center">10</td>
+      <td align="center">144</td>
+    </tr>
+  </table>
   <!-- GITHUB-STATS:END -->
 </p>
 
