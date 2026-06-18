@@ -40,5 +40,5 @@ Full-stack developer building products that people actually use.
 
 ### 📬 Reach me
 
-[![Email](https://img.shields.io/badge/ishan@urbanweb.host-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishan@urbanweb.host)
+[![Email](https://img.shields.io/badge/ishanproj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishanproj@gmail.com)
 [![GitHub](https://img.shields.io/badge/@IshanKulkarni02-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IshanKulkarni02)
