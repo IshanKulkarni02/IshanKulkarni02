@@ -1,7 +1,7 @@
 # Hi, I'm Ishan 👋
 
 B.Tech CS (AIML) @ KIT Kolhapur · Building at the intersection of AI, robotics, and full-stack development.  
-Founder of the AI & Robotics Club · 400+ students mentored · Top 20 @ Techfest IIT Bombay.
+Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfest IIT Bombay.
 
 ---
 
