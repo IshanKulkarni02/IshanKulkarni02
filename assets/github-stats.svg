@@ -5,7 +5,7 @@
   <rect x="0.5" y="0.5" width="749" height="159" rx="7.5" stroke="#30363d" stroke-opacity="0.35"/>
   
   <text x="140" y="63" text-anchor="middle" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="700">Total Contributions</text>
-  <text x="140" y="105" text-anchor="middle" fill="#38bdae" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">426</text>
+  <text x="140" y="105" text-anchor="middle" fill="#38bdae" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">835</text>
 <line x1="250" y1="34" x2="250" y2="126" stroke="#30363d" stroke-width="1"/>
   <text x="390" y="63" text-anchor="middle" fill="#70a5fd" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="700">Commits This Week</text>
   <text x="390" y="105" text-anchor="middle" fill="#38bdae" font-family="Segoe UI, Ubuntu, sans-serif" font-size="38" font-weight="700">21</text>
