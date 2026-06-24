@@ -10,12 +10,24 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://deskpanda.io">
+    <img src="assets/neural-interface.svg" alt="Animated neural interface panel" />
+  </a>
+</p>
+
 # Hi, I'm Ishan 👋
 
 B.Tech CS (AIML) @ KIT Kolhapur · Building at the intersection of AI, robotics, and full-stack development.  
 Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfest IIT Bombay.
 
 ---
+
+<p align="center">
+  <a href="https://github.com/IshanKulkarni02">
+    <img src="assets/circuit-divider.svg" alt="Animated circuit divider" />
+  </a>
+</p>
 
 ### 🛠 Tech Stack
 
@@ -89,6 +101,12 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 
 ---
 
+<p align="center">
+  <a href="https://github.com/IshanKulkarni02">
+    <img src="assets/circuit-divider.svg" alt="Animated circuit divider" />
+  </a>
+</p>
+
 ### 🤖 AI Tools I Use
 
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
@@ -98,6 +116,12 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 [![Antigravity](https://img.shields.io/badge/Antigravity-6B21A8?style=for-the-badge&logoColor=white)](https://antigravity.google/)
 
 ---
+
+<p align="center">
+  <a href="https://github.com/IshanKulkarni02">
+    <img src="assets/circuit-divider.svg" alt="Animated circuit divider" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -117,6 +141,12 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://deskpanda.io">
+    <img src="assets/circuit-divider.svg" alt="Animated circuit divider" />
+  </a>
+</p>
 
 ### 🚀 What I'm building
 
