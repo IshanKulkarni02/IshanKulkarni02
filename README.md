@@ -90,8 +90,7 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 ### 📊 GitHub Stats
 
 <p align="center">
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IshanKulkarni02&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=IshanKulkarni02&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -103,7 +102,7 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 
 ### 🚀 What I'm building
 
-- **[DeskPanda](https://deskpanda.app)** — Smart task manager for teams
+- **[DeskPanda](https://deskpanda.io)** — Smart task manager for teams
 - **[GyanBrige](https://github.com/IshanKulkarni02/GyanBrige)** — Self-hosted college LMS with live classes, AI notes, attendance & community — one codebase for web, mobile & desktop (Expo, Tauri, Fastify, tRPC, LiveKit)
 - **Smart LMS** — Cross-platform LMS with NFC-triggered lecture recording & WebRTC streaming
 - **Book-Learning Q&A LLM** — RAG pipeline for context-aware literary Q&A (Unsloth + Ollama)
