@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://github.com/IshanKulkarni02">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22d3ee&text=Ishan%20Kulkarni&fontAlign=50&fontAlignY=38&fontColor=e0f2fe&fontSize=52&desc=AI%20%7C%20Robotics%20%7C%20Full-Stack%20Systems&descAlign=50&descAlignY=58&animation=fadeIn" alt="Ishan Kulkarni animated sci-fi banner" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://deskpanda.io">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI-native+products;Robotics+%2B+Full-stack+systems;Designing+tools+for+the+next+interface" alt="Animated typing intro" />
+  </a>
+</p>
+
 # Hi, I'm Ishan 👋
 
 B.Tech CS (AIML) @ KIT Kolhapur · Building at the intersection of AI, robotics, and full-stack development.  
