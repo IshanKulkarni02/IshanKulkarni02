@@ -55,9 +55,4 @@
   <text x="60" y="62" fill="#7dd3fc" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">SYSTEM ONLINE</text>
   <text x="60" y="94" fill="#e0f2fe" font-family="JetBrains Mono, Consolas, monospace" font-size="34" font-weight="800">AI x Robotics x Product Engineering</text>
   <text x="60" y="234" fill="#67e8f9" font-family="JetBrains Mono, Consolas, monospace" font-size="18">building interfaces where software meets the physical world</text>
-
-  <g opacity="0.9">
-    <rect x="720" y="190" width="210" height="34" rx="17" fill="#020617" stroke="#2563eb" stroke-opacity="0.8"/>
-    <text x="825" y="213" text-anchor="middle" fill="#93c5fd" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">DESKPANDA.IO</text>
-  </g>
 </svg>
