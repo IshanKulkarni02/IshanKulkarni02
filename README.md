@@ -159,6 +159,7 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 - **[DBHelm](https://github.com/IshanKulkarni02/mongo-backup-tool)** — Cross-platform database manager for MongoDB, PostgreSQL, MySQL & SQLite — full-fidelity backups plus git-like snapshots, as a CLI, TUI, and desktop app
 - **Smart LMS** — Cross-platform LMS with NFC-triggered lecture recording & WebRTC streaming
 - **Book-Learning Q&A LLM** — RAG pipeline for context-aware literary Q&A (Unsloth + Ollama)
+- **[DeskPanda](https://deskpanda.io)** — Task manager for teams, built at my day job
 
 ---
 
