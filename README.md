@@ -136,11 +136,11 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=IshanKulkarni02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=IshanKulkarni02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanKulkarni02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IshanKulkarni02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
   </a>
 </p>
 
