@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://deskpanda.io">
+  <a href="https://github.com/IshanKulkarni02">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI-native+products;Robotics+%2B+Full-stack+systems;Designing+tools+for+the+next+interface" alt="Animated typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://deskpanda.io">
+  <a href="https://github.com/IshanKulkarni02">
     <img src="assets/neural-interface.svg" alt="Animated neural interface panel" />
   </a>
 </p>
@@ -147,17 +147,16 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 ---
 
 <p align="center">
-  <a href="https://deskpanda.io">
+  <a href="https://github.com/IshanKulkarni02">
     <img src="assets/circuit-divider.svg" alt="Animated circuit divider" />
   </a>
 </p>
 
 ### 🚀 What I'm building
 
-- **[DeskPanda](https://deskpanda.io)** — Smart task manager for teams
 - **[GyanBrige](https://github.com/IshanKulkarni02/GyanBrige)** — Self-hosted college LMS with live classes, AI notes, attendance & community — one codebase for web, mobile & desktop (Expo, Tauri, Fastify, tRPC, LiveKit)
 - **[AudioMixer](https://github.com/IshanKulkarni02/Mac_audio_mixer)** — macOS virtual audio mixer with per-app strips, routed through a Rust DSP core and a user-space Core Audio HAL plugin, controlled from a native SwiftUI app
-- **[dbhelm](https://github.com/IshanKulkarni02/mongo-backup-tool)** — Cross-platform MongoDB backup, restore & version-control tool — full-fidelity backups plus git-like snapshots, as a CLI, TUI, and desktop app
+- **[DBHelm](https://github.com/IshanKulkarni02/mongo-backup-tool)** — Cross-platform database manager for MongoDB, PostgreSQL, MySQL & SQLite — full-fidelity backups plus git-like snapshots, as a CLI, TUI, and desktop app
 - **Smart LMS** — Cross-platform LMS with NFC-triggered lecture recording & WebRTC streaming
 - **Book-Learning Q&A LLM** — RAG pipeline for context-aware literary Q&A (Unsloth + Ollama)
 
