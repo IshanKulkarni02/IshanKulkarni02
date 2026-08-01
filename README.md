@@ -27,7 +27,7 @@ Alongside those: an LMS where tapping an NFC tag starts a WebRTC lecture recordi
 
 ## What I reach for
 
-Python and TypeScript for most things. React or Next.js on the frontend, Node with Fastify and tRPC on the backend, Postgres or Mongo depending on the shape of the data. When a project needs to leave the browser: Flutter or React Native for mobile, Tauri for desktop, Arduino or a Raspberry Pi when it needs to leave the screen entirely. For AI work, Ollama and Unsloth to run and fine-tune models locally, OpenCV when vision is involved, Blender when something needs to exist in 3D first.
+Python and TypeScript for most things. React or Next.js on the frontend, Node with Fastify and tRPC on the backend, Postgres or Mongo depending on the shape of the data. When a project needs to leave the browser: Flutter or React Native for mobile, Tauri for desktop, Arduino or a Raspberry Pi when it needs to leave the screen entirely. Go for small, fast CLI tools, Rust when something has to be real-time-safe, Swift when it needs to speak natively to macOS. For AI work, Ollama and Unsloth to run and fine-tune models locally, OpenCV when vision is involved, Blender when something needs to exist in 3D first.
 
 ## Reach me
 
