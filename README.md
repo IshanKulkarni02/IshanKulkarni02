@@ -42,6 +42,7 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
 
 **Frontend & Mobile**
 
@@ -52,6 +53,9 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app/)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 
 **Backend & Infra**
 
@@ -59,14 +63,18 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://fastify.dev/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
 [![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logoColor=white)](https://trpc.io/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logoColor=white)](https://bullmq.io/)
 
 **Database & Storage**
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
@@ -91,6 +99,9 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)](https://ollama.com/)
 [![Unsloth](https://img.shields.io/badge/Unsloth-8A2BE2?style=for-the-badge&logoColor=white)](https://unsloth.ai/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Core ML](https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/machine-learning/core-ml/)
+[![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
 [![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 
 **Embedded & Hardware**
@@ -102,6 +113,11 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
+[![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)](https://docs.astral.sh/uv/)
 
 ---
 
@@ -157,9 +173,23 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 - **[GyanBrige](https://github.com/IshanKulkarni02/GyanBrige)** — Self-hosted college LMS with live classes, AI notes, attendance & community — one codebase for web, mobile & desktop (Expo, Tauri, Fastify, tRPC, LiveKit)
 - **[AudioMixer](https://github.com/IshanKulkarni02/Mac_audio_mixer)** — macOS virtual audio mixer with per-app strips, routed through a Rust DSP core and a user-space Core Audio HAL plugin, controlled from a native SwiftUI app
 - **[DBHelm](https://github.com/IshanKulkarni02/mongo-backup-tool)** — Cross-platform database manager for MongoDB, PostgreSQL, MySQL & SQLite — full-fidelity backups plus git-like snapshots, as a CLI, TUI, and desktop app
+- **Guitar Tutor** — On-device macOS AI guitar tutor: drop in any song, get it transcribed to notes (melody / chords / mix), practice in chunks, and get live mic + camera feedback. No cloud AI (Swift, SwiftUI, Core ML, Vision)
+- **[SpatialAI Attendance](https://github.com/IshanKulkarni02/spatialai-attendance)** — Privacy-preserving, row-aware classroom attendance from a single photo; faces are matched and mapped to seating rows, the image is never stored (FastAPI, ONNX, ArcFace)
+- **[Courier Council](https://github.com/IshanKulkarni02/courier-council)** — Local-first AI career-discovery engine: Ollama-generated training data, Unsloth LoRA fine-tuning, and a LangGraph interviewer agent
 - **Smart LMS** — Cross-platform LMS with NFC-triggered lecture recording & WebRTC streaming
-- **Book-Learning Q&A LLM** — RAG pipeline for context-aware literary Q&A (Unsloth + Ollama)
+- **[Book-Learning Q&A LLM](https://github.com/IshanKulkarni02/book-learning-ai)** — RAG pipeline for context-aware literary Q&A (Unsloth + Ollama)
 - **[DeskPanda](https://deskpanda.io)** — Task manager for teams, built at my day job
+
+---
+
+### 🧪 Side Projects
+
+| Project | Stack | Highlight |
+|---|---|---|
+| [Monopoly OS](https://github.com/IshanKulkarni02/monopoly_OS) | FastAPI, React 19, Tailwind, SQLite, WebSockets, Docker | Game-night companion for real-life Monopoly — banker/host/player accounts, live play log, join by short code |
+| [LANShare](https://github.com/IshanKulkarni02/file-shairing) | Node.js, Express, Sharp, PWA | Password-protected photo & video library on your own Wi-Fi — nothing leaves the network, installable on any device |
+| [Mock Interview Bot](https://github.com/IshanKulkarni02/mock-interview-bot) | Flask, Ollama (Gemma 3), Docker | Upload a resume PDF, get a mock interview from a local LLM |
+| [Portfolio Site](https://github.com/IshanKulkarni02/IshanKulkarniWebSight) | HTML, CSS, JavaScript, PWA | Installable personal site with service-worker offline support |
 
 ---
 
@@ -168,7 +198,7 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 | Project | Stack | Highlight |
 |---|---|---|
 | Film Matchmaking AI | TensorFlow, Flask, CNN, LLM | Tinder × LinkedIn for film — LLM understands artist/producer profiles, CNN powers matching |
-| Greeting Robot | Ollama, Flask, Raspberry Pi, OpenCV | Physical robot head with real-time face tracking & local LLM |
+| [Greeting Robot](https://github.com/IshanKulkarni02/Greeting-Robot) | Ollama, Flask, Raspberry Pi, OpenCV | Physical robot head with real-time face tracking & local LLM |
 | Communicathon App | Flutter, React Native | Assistive app for sensory-impaired users (STT + TTS) |
 | FaceVault Extension | YOLO, JavaScript | Browser extension for passwordless biometric login |
 
