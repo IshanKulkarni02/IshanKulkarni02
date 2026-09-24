@@ -172,13 +172,9 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 
 - **[FTPilot](https://marketplace.visualstudio.com/items?itemName=IshanKulkarni.ftpilot)** — VS Code extension that builds your project and FTP-deploys a git `deploy` branch to cPanel domains/subdomains in one click. [Live on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=IshanKulkarni.ftpilot) · [Source](https://github.com/IshanKulkarni02/ftpilot) (TypeScript)
 - **Guitar Tutor** — On-device macOS AI guitar tutor: drop in any song, get it transcribed to notes (melody / chords / mix), practice in chunks, and get live mic + camera feedback. No cloud AI (Swift, SwiftUI, Core ML, Vision)
-- **[GyanBrige](https://github.com/IshanKulkarni02/GyanBrige)** — Self-hosted college LMS with live classes, AI notes, attendance & community — one codebase for web, mobile & desktop (Expo, Tauri, Fastify, tRPC, LiveKit)
 - **[AudioMixer](https://github.com/IshanKulkarni02/Mac_audio_mixer)** — macOS virtual audio mixer with per-app strips, routed through a Rust DSP core and a user-space Core Audio HAL plugin, controlled from a native SwiftUI app
 - **[DBHelm](https://github.com/IshanKulkarni02/mongo-backup-tool)** — Cross-platform database manager for MongoDB, PostgreSQL, MySQL & SQLite — full-fidelity backups plus git-like snapshots, as a CLI, TUI, and desktop app
-- **[SpatialAI Attendance](https://github.com/IshanKulkarni02/spatialai-attendance)** — Privacy-preserving, row-aware classroom attendance from a single photo; faces are matched and mapped to seating rows, the image is never stored (FastAPI, ONNX, ArcFace)
-- **[Courier Council](https://github.com/IshanKulkarni02/courier-council)** — Local-first AI career-discovery engine: Ollama-generated training data, Unsloth LoRA fine-tuning, and a LangGraph interviewer agent
 - **Smart LMS** — Cross-platform LMS with NFC-triggered lecture recording & WebRTC streaming
-- **[Book-Learning Q&A LLM](https://github.com/IshanKulkarni02/book-learning-ai)** — RAG pipeline for context-aware literary Q&A (Unsloth + Ollama)
 - **[DeskPanda](https://deskpanda.io)** — Task manager for teams, built at my day job
 
 ---
@@ -198,6 +194,9 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 
 | Project | Stack | Highlight |
 |---|---|---|
+| [GyanBrige](https://github.com/IshanKulkarni02/GyanBrige) | Expo, Tauri, Fastify, tRPC, LiveKit | Self-hosted college LMS with live classes, AI notes, attendance & community — one codebase for web, mobile & desktop |
+| [Courier Council](https://github.com/IshanKulkarni02/courier-council) | Ollama, Unsloth, LangGraph | Local-first AI career-discovery engine: generated training data, LoRA fine-tuning, and an interviewer agent |
+| [Book-Learning Q&A LLM](https://github.com/IshanKulkarni02/book-learning-ai) | Unsloth, Ollama, RAG | RAG pipeline for context-aware literary Q&A |
 | Film Matchmaking AI | TensorFlow, Flask, CNN, LLM | Tinder × LinkedIn for film — LLM understands artist/producer profiles, CNN powers matching |
 | [Greeting Robot](https://github.com/IshanKulkarni02/Greeting-Robot) | Ollama, Flask, Raspberry Pi, OpenCV | Physical robot head with real-time face tracking & local LLM |
 | Communicathon App | Flutter, React Native | Assistive app for sensory-impaired users (STT + TTS) |
