@@ -170,6 +170,7 @@ Founder of the AI & Robotics Club · 1500+ students mentored · Top 20 @ Techfes
 
 ### 🚀 What I'm building
 
+- **[FTPilot](https://marketplace.visualstudio.com/items?itemName=IshanKulkarni.ftpilot)** — VS Code extension that builds your project and FTP-deploys a git `deploy` branch to cPanel domains/subdomains in one click. [Live on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=IshanKulkarni.ftpilot) · [Source](https://github.com/IshanKulkarni02/ftpilot) (TypeScript)
 - **[GyanBrige](https://github.com/IshanKulkarni02/GyanBrige)** — Self-hosted college LMS with live classes, AI notes, attendance & community — one codebase for web, mobile & desktop (Expo, Tauri, Fastify, tRPC, LiveKit)
 - **[AudioMixer](https://github.com/IshanKulkarni02/Mac_audio_mixer)** — macOS virtual audio mixer with per-app strips, routed through a Rust DSP core and a user-space Core Audio HAL plugin, controlled from a native SwiftUI app
 - **[DBHelm](https://github.com/IshanKulkarni02/mongo-backup-tool)** — Cross-platform database manager for MongoDB, PostgreSQL, MySQL & SQLite — full-fidelity backups plus git-like snapshots, as a CLI, TUI, and desktop app
